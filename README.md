@@ -18,5 +18,4 @@ Ubuntu 12+
 ## 使用教程
 
 一键搭建ss/ssr：[一键脚本搭建shadowsocks+开启bbr](https://suniceman.com/2019/04/10/install-shadowsocks-in-one-command/)
-
-[搬瓦工优惠网](https://www.bwgyhw.cn/)
+  
